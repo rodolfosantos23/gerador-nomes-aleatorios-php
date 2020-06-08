@@ -1,0 +1,9 @@
+{
+    "name": "vendor/php-namespace-psr4-autoload",
+    "description": "Exemplo de load de Classes PHP com Namespace",
+    "autoload": {
+        "psr-4": {
+            "App\\Models\\": "app/models/"
+        }
+    }
+}
